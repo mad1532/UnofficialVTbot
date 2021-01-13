@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Dsharp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
