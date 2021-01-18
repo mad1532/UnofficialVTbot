@@ -1,6 +1,6 @@
 # UnofficialVTbot
 
-hi! This is a discord bot written in c# using DSharpPlus.
+This is a discord bot written in c# using DSharpPlus. It uses the VirusTotal API to quickly display the results of a hash or a virustotal URL (as the website does not have a preview avialible in discord).
 
 # Usage
 
